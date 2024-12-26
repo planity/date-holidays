@@ -119,6 +119,7 @@
     "@commitlint/config-conventional": "^18.6.3",
     "@mocha/contributors": "git+https://github.com/commenthol/contributors.git#semver:1.1.0-0",
     "babel-loader": "^9.1.3",
+    "chai": "^5.1.2",
     "dtslint": "^4.2.1",
     "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
