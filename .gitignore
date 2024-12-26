@@ -12,6 +12,4 @@ tmp/
 .idea/
 .DS_Store
 
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
+
